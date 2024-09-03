@@ -23,11 +23,11 @@ A new TODO App Flutter project.
 <p>Nodejs</p>
 
 <h4>Features:</h4>
-<ui>splash screen</ui>
-<ui>Login screen</ui>
-<ui>Register screen</ui>
-<ui>Home screen</ui>
-<ui>Item Add screen</ui>
+<p>splash screen</p>
+<p>Login screen</p>
+<p>Register screen</p>
+<p>Home screen</p>
+<p>Item Add screen</p>
 
 
 -----------xxx---------------
